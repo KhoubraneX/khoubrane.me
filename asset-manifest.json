@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/khoubrane.me/static/css/main.db49c7d3.css",
+    "main.js": "/khoubrane.me/static/js/main.08f115f6.js",
+    "static/js/117.f620b88d.chunk.js": "/khoubrane.me/static/js/117.f620b88d.chunk.js",
+    "static/js/478.30939067.chunk.js": "/khoubrane.me/static/js/478.30939067.chunk.js",
+    "static/js/922.a65afe4f.chunk.js": "/khoubrane.me/static/js/922.a65afe4f.chunk.js",
+    "static/js/161.3ce842b0.chunk.js": "/khoubrane.me/static/js/161.3ce842b0.chunk.js",
+    "static/js/839.e71eaa48.chunk.js": "/khoubrane.me/static/js/839.e71eaa48.chunk.js",
+    "static/js/675.ba640617.chunk.js": "/khoubrane.me/static/js/675.ba640617.chunk.js",
+    "static/js/209.664e29c4.chunk.js": "/khoubrane.me/static/js/209.664e29c4.chunk.js",
+    "index.html": "/khoubrane.me/index.html",
+    "main.db49c7d3.css.map": "/khoubrane.me/static/css/main.db49c7d3.css.map",
+    "main.08f115f6.js.map": "/khoubrane.me/static/js/main.08f115f6.js.map",
+    "117.f620b88d.chunk.js.map": "/khoubrane.me/static/js/117.f620b88d.chunk.js.map",
+    "478.30939067.chunk.js.map": "/khoubrane.me/static/js/478.30939067.chunk.js.map",
+    "922.a65afe4f.chunk.js.map": "/khoubrane.me/static/js/922.a65afe4f.chunk.js.map",
+    "161.3ce842b0.chunk.js.map": "/khoubrane.me/static/js/161.3ce842b0.chunk.js.map",
+    "839.e71eaa48.chunk.js.map": "/khoubrane.me/static/js/839.e71eaa48.chunk.js.map",
+    "675.ba640617.chunk.js.map": "/khoubrane.me/static/js/675.ba640617.chunk.js.map",
+    "209.664e29c4.chunk.js.map": "/khoubrane.me/static/js/209.664e29c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db49c7d3.css",
+    "static/js/main.08f115f6.js"
+  ]
+}
